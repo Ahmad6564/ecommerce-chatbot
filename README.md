@@ -2,7 +2,7 @@
 
 A full-stack AI-powered customer support chatbot for e-commerce, built with React, Node.js, and GPT-4 integration.
 
-![Chatbot Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Customer+Support+Chatbot)
+![Chatbot Demo]https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fdrive.google.com%2ffile%2fd%2f1QLGZcqOBzQP_X1lsezcgpStoj7CaHLxo%2fview%3fusp%3dsharing&c=E,1,ldAy11OLW2sEksh9i-uQGljZorG4mqh3Zrx0kR--mVpPXLiYbNAJ6tcvm0giUD00GJcX2IrfL1EnzpUclCXNxKIy25D5fc5-9j3kWnIlOetek9kf-Ved2qTU94Q,&typo=1
 
 ## 🌟 Features
 
